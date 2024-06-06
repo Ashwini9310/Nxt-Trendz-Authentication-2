@@ -1,5 +1,4 @@
 // Write your JS code here
-// Write your JS code here
 import Cookies from 'js-cookie'
 import {Redirect} from 'react-router-dom'
 import Header from '../Header'
